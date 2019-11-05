@@ -11,7 +11,11 @@ keywords:
   - tech
 ---
 
+Functional Programming in R  
+<!--more-->
+
 # Using purr for functional  
+
 
 
 ```{r}

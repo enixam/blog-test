@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/2019/11/about-me/</loc>
-    <lastmod>2019-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/2019/11/another-post/</loc>
     <lastmod>2019-11-05T00:00:00+00:00</lastmod>
   </url>
@@ -29,11 +24,6 @@
   
   <url>
     <loc>/categories/essay/</loc>
-    <lastmod>2019-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/myself/</loc>
     <lastmod>2019-11-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -64,6 +54,11 @@
   
   <url>
     <loc>/tags/</loc>
+    <lastmod>2019-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
     <lastmod>2019-11-05T00:00:00+00:00</lastmod>
   </url>
   
