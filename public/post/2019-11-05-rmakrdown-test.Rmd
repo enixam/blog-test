@@ -1,5 +1,5 @@
 ---
-title: Rmakrdown test
+title: Exploring the diamonds data
 author: Qiushi Yan
 date: '2019-11-05'
 slug: rmakrdown-test
@@ -10,9 +10,10 @@ keywords:
   - data visualization
 ---
 
-# A simple Rmarkdown test  
 
-Load the tidyverse  
+An simple example using the tidyverse
+
+<!--more-->
 
 
 ```{r,message=F}
