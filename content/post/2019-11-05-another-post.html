@@ -13,4 +13,22 @@ keywords:
 
 
 
-<!--more-->
+<div id="using-purr-for-functional" class="section level1">
+<h1>Using purr for functional</h1>
+<pre class="r"><code>library(purrr)</code></pre>
+<pre class="r"><code>mtcars %&gt;%
+  split(.$cyl) %&gt;%
+  map(~ lm(mpg ~ wt, data = .x)) %&gt;% 
+  map(coef)</code></pre>
+<pre><code>## $`4`
+## (Intercept)          wt 
+##   39.571196   -5.647025 
+## 
+## $`6`
+## (Intercept)          wt 
+##   28.408845   -2.780106 
+## 
+## $`8`
+## (Intercept)          wt 
+##   23.868029   -2.192438</code></pre>
+</div>

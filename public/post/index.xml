@@ -26,10 +26,7 @@
       <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/11/another-post/</guid>
-      <description>
-
-
-</description>
+      <description>Using purr for functionallibrary(purrr)mtcars %&amp;gt;%split(.$cyl) %&amp;gt;%map(~ lm(mpg ~ wt, data = .x)) %&amp;gt;% map(coef)## $`4`## (Intercept) wt ## 39.571196 -5.647025 ## ## $`6`## (Intercept) wt ## 28.408845 -2.780106 ## ## $`8`## (Intercept) wt ## 23.868029 -2.192438</description>
     </item>
     
     <item>

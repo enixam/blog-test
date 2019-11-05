@@ -8,30 +8,18 @@
 <meta name="generator" content="Hugo 0.59.1 with theme Tranquilpeak 0.4.7-BETA">
 <meta name="author" content="Qiushi Yan">
 <meta name="keywords" content="tech">
-<meta name="description" content="
+<meta name="description" content="Using purr for functionallibrary(purrr)mtcars %&gt;%split(.$cyl) %&gt;%map(~ lm(mpg ~ wt, data = .x)) %&gt;% map(coef)## $`4`## (Intercept) wt ## 39.571196 -5.647025 ## ## $`6`## (Intercept) wt ## 28.408845 -2.780106 ## ## $`8`## (Intercept) wt ## 23.868029 -2.192438">
 
 
-">
-
-
-<meta property="og:description" content="
-
-
-">
+<meta property="og:description" content="Using purr for functionallibrary(purrr)mtcars %&gt;%split(.$cyl) %&gt;%map(~ lm(mpg ~ wt, data = .x)) %&gt;% map(coef)## $`4`## (Intercept) wt ## 39.571196 -5.647025 ## ## $`6`## (Intercept) wt ## 28.408845 -2.780106 ## ## $`8`## (Intercept) wt ## 23.868029 -2.192438">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Another post">
 <meta name="twitter:title" content="Another post">
 <meta property="og:url" content="/2019/11/another-post/">
 <meta property="twitter:url" content="/2019/11/another-post/">
 <meta property="og:site_name" content="Qiushi&#39;s Blog">
-<meta property="og:description" content="
-
-
-">
-<meta name="twitter:description" content="
-
-
-">
+<meta property="og:description" content="Using purr for functionallibrary(purrr)mtcars %&gt;%split(.$cyl) %&gt;%map(~ lm(mpg ~ wt, data = .x)) %&gt;% map(coef)## $`4`## (Intercept) wt ## 39.571196 -5.647025 ## ## $`6`## (Intercept) wt ## 28.408845 -2.780106 ## ## $`8`## (Intercept) wt ## 23.868029 -2.192438">
+<meta name="twitter:description" content="Using purr for functionallibrary(purrr)mtcars %&gt;%split(.$cyl) %&gt;%map(~ lm(mpg ~ wt, data = .x)) %&gt;% map(coef)## $`4`## (Intercept) wt ## 39.571196 -5.647025 ## ## $`6`## (Intercept) wt ## 28.408845 -2.780106 ## ## $`8`## (Intercept) wt ## 23.868029 -2.192438">
 <meta property="og:locale" content="en-us">
 
   
@@ -270,10 +258,25 @@
               
 
 
-
-
-HUGOMORE42
-
+<div id="using-purr-for-functional" class="section level1">
+<h1>Using purr for functional</h1>
+<pre class="r"><code>library(purrr)</code></pre>
+<pre class="r"><code>mtcars %&gt;%
+  split(.$cyl) %&gt;%
+  map(~ lm(mpg ~ wt, data = .x)) %&gt;% 
+  map(coef)</code></pre>
+<pre><code>## $`4`
+## (Intercept)          wt 
+##   39.571196   -5.647025 
+## 
+## $`6`
+## (Intercept)          wt 
+##   28.408845   -2.780106 
+## 
+## $`8`
+## (Intercept)          wt 
+##   23.868029   -2.192438</code></pre>
+</div>
 
               
             </div>

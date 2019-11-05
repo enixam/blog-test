@@ -11,4 +11,17 @@ keywords:
   - tech
 ---
 
-<!--more-->
+# Using purr for functional  
+
+
+```{r}
+library(purrr)
+```
+
+```{r}
+mtcars %>%
+  split(.$cyl) %>%
+  map(~ lm(mpg ~ wt, data = .x)) %>% 
+  map(coef)
+```
+
