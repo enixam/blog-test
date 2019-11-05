@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qiushi&#39;s Blog</title>
+    <link>/</link>
+    <description>Recent content on Qiushi&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Of certificate</title>
+      <link>/2019/11/of-certificate/</link>
+      <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/of-certificate/</guid>
+      <description>All certificates enhance college students&amp;rsquo; abilities? With the ever-growing expansion of higher education, today’s world has seen college graduates growing in larger numbers, leading to fierce competition in the talent market, where a subtle craze for various of certificates is on the rise and here to stay. Students took several weeks or months cramming for an examination to get one certificate for qualification, and they aimed at another certificate afterwards, irrespective of what previous cramming has brought him or future learning routes on the subject concerned.</description>
+    </item>
+    
+    <item>
+      <title>Rmakrdown test</title>
+      <link>/2019/11/rmakrdown-test/</link>
+      <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/rmakrdown-test/</guid>
+      <description>A simple Rmarkdown testLoad the tidyverse
+library(tidyverse)Use the diamonds dataset:
+diamonds## # A tibble: 53,940 x 10## carat cut color clarity depth table price x y z## &amp;lt;dbl&amp;gt; &amp;lt;ord&amp;gt; &amp;lt;ord&amp;gt; &amp;lt;ord&amp;gt; &amp;lt;dbl&amp;gt; &amp;lt;dbl&amp;gt; &amp;lt;int&amp;gt; &amp;lt;dbl&amp;gt; &amp;lt;dbl&amp;gt; &amp;lt;dbl&amp;gt;## 1 0.23 Ideal E SI2 61.5 55 326 3.95 3.98 2.43## 2 0.21 Premium E SI1 59.8 61 326 3.89 3.84 2.31## 3 0.23 Good E VS1 56.</description>
+    </item>
+    
+  </channel>
+</rss>

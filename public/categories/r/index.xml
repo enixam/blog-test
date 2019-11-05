@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on Qiushi&#39;s Blog</title>
+    <link>/categories/r/</link>
+    <description>Recent content in R on Qiushi&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rmakrdown test</title>
+      <link>/2019/11/rmakrdown-test/</link>
+      <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/rmakrdown-test/</guid>
+      <description>A simple Rmarkdown testLoad the tidyverse
+library(tidyverse)Use the diamonds dataset:
+diamonds## # A tibble: 53,940 x 10## carat cut color clarity depth table price x y z## &amp;lt;dbl&amp;gt; &amp;lt;ord&amp;gt; &amp;lt;ord&amp;gt; &amp;lt;ord&amp;gt; &amp;lt;dbl&amp;gt; &amp;lt;dbl&amp;gt; &amp;lt;int&amp;gt; &amp;lt;dbl&amp;gt; &amp;lt;dbl&amp;gt; &amp;lt;dbl&amp;gt;## 1 0.23 Ideal E SI2 61.5 55 326 3.95 3.98 2.43## 2 0.21 Premium E SI1 59.8 61 326 3.89 3.84 2.31## 3 0.23 Good E VS1 56.</description>
+    </item>
+    
+  </channel>
+</rss>

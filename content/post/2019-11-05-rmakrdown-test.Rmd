@@ -1,0 +1,35 @@
+---
+title: Rmakrdown test
+author: Qiushi Yan
+date: '2019-11-05'
+slug: rmakrdown-test
+categories: [R]
+tags: []
+keywords:
+  - R
+  - data visualization
+---
+
+# A simple Rmarkdown test  
+
+Load the tidyverse  
+
+
+```{r,message=F}
+library(tidyverse)
+```
+
+Use the `diamonds` dataset:  
+
+```{r}
+diamonds
+```
+
+Draw a `ggplot2` plot
+
+```{r}
+ggplot(diamonds, aes(carat, price)) + 
+  geom_point(aes(color = cut), alpha = 0.2) + 
+  theme_classic()
+```
+
