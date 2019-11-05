@@ -1,0 +1,14 @@
+---
+title: Another post
+author: Qiushi Yan
+date: '2019-11-05'
+slug: another-post
+categories:
+  - R
+  - data science
+tags: []
+keywords:
+  - tech
+---
+
+<!--more-->
