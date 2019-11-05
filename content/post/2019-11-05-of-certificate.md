@@ -4,7 +4,7 @@ author: Qiushi Yan
 date: '2019-11-05'
 slug: of-certificate
 categories:
-  - essay
+  - random thoughts
 tags:
   - education
 keywords:
@@ -12,7 +12,7 @@ keywords:
   - learning
 ---
 
-All certificates enhance college students' abilities?
+Do certificates enhance college students' abilities?  
 <!--more-->
 
 

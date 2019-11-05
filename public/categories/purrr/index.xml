@@ -1,28 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R on Qiushi&#39;s Blog</title>
-    <link>/categories/r/</link>
-    <description>Recent content in R on Qiushi&#39;s Blog</description>
+    <title>purrr on Qiushi&#39;s Blog</title>
+    <link>/categories/purrr/</link>
+    <description>Recent content in purrr on Qiushi&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Nov 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/purrr/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Exploring the diamonds data</title>
-      <link>/2019/11/rmakrdown-test/</link>
-      <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/2019/11/rmakrdown-test/</guid>
-      <description>
-
-
-&lt;p&gt;An simple example using the tidyverse
-</description>
-    </item>
     
     <item>
       <title>purrr tips</title>

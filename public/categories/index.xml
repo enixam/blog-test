@@ -12,20 +12,11 @@
     
     
     <item>
-      <title>data science</title>
-      <link>/categories/data-science/</link>
+      <title>purrr</title>
+      <link>/categories/purrr/</link>
       <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/data-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>essay</title>
-      <link>/categories/essay/</link>
-      <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/essay/</guid>
+      <guid>/categories/purrr/</guid>
       <description></description>
     </item>
     
@@ -35,6 +26,24 @@
       <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>random thoughts</title>
+      <link>/categories/random-thoughts/</link>
+      <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/random-thoughts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tidyverse</title>
+      <link>/categories/tidyverse/</link>
+      <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/tidyverse/</guid>
       <description></description>
     </item>
     

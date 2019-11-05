@@ -1,11 +1,12 @@
 ---
-title: Another post
+title: purrr tips
 author: Qiushi Yan
 date: '2019-11-05'
 slug: another-post
 categories:
   - R
-  - data science
+  - tidyverse
+  - purrr
 tags: []
 keywords:
   - tech
