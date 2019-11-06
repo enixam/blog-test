@@ -47,12 +47,13 @@
     </item>
     
     <item>
-      <title>Who am I?</title>
+      <title>Things about me</title>
       <link>/about/</link>
       <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description> Hello </description>
+      <description>I have made several bookdown projects to collect what I have learned and thoughts inspired by some excellent data science resources. As of yet most of them are written in Chinese, but I have decided to make English learning notes more often.
+ https://bookdown.org/Maxine/rfordatascience/ : Notes for R for Data Science by Hadley Wickham and Garret Grolemund. Topics covered in the original book are fairly reproduced and explored, and I now start to venture new topics based on some nice R packages I discoverd, as well as update some content to keep it in line with the newest Tidyverse</description>
     </item>
     
   </channel>
