@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>random thoughts on Qiushi&#39;s Blog</title>
-    <link>/categories/random-thoughts/</link>
-    <description>Recent content in random thoughts on Qiushi&#39;s Blog</description>
+    <title>epigrams on Qiushi&#39;s Blog</title>
+    <link>/tags/epigrams/</link>
+    <description>Recent content in epigrams on Qiushi&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 06 Nov 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/random-thoughts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/epigrams/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>/2019/11/bertrand-russell-on-thought/</guid>
       <description>&lt;p&gt;Thought is great and swift and free, the light of the world, and the chief glory of man.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Of certificate</title>
-      <link>/2019/11/of-certificate/</link>
-      <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/2019/11/of-certificate/</guid>
-      <description>&lt;p&gt;Do certificates enhance college students&amp;rsquo; abilities?&lt;/p&gt;</description>
     </item>
     
   </channel>

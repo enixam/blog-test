@@ -19,7 +19,7 @@ I have made several [bookdown](https://bookdown.org/home/) projects to collect w
 
 * https://bookdown.org/Maxine/textmining/ : Notes for [Text Mining with R: A Tidy Approach](http://127.0.0.1:4321) by Julia Silge and David Robinson, this project is still under early development.  
 
-* https://bookdown.org/Maxine/tidy_tuesday/ : Contributions to the [Tidy Tuesday Project](https://github.com/rfordatascience/tidytuesday) launched by the [R for Data Science Community](https://www.rfordatasci.com/)  
+* https://bookdown.org/Maxine/tidy_tuesday/ : Contributions to the [Tidy Tuesday Project](https://github.com/rfordatascience/tidytuesday) launched by the [R for Data Science Online Learning Community](https://www.rfordatasci.com/)  
 
 
 

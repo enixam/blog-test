@@ -6,44 +6,26 @@
     <description>Recent content in Categories on Qiushi&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>purrr</title>
-      <link>/categories/purrr/</link>
-      <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
+      <title>readings notes</title>
+      <link>/categories/readings-notes/</link>
+      <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/purrr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>/categories/r/</link>
-      <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/r/</guid>
+      <guid>/categories/readings-notes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>random thoughts</title>
       <link>/categories/random-thoughts/</link>
-      <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/random-thoughts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tidyverse</title>
-      <link>/categories/tidyverse/</link>
-      <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/tidyverse/</guid>
       <description></description>
     </item>
     
