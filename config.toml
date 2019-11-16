@@ -32,7 +32,7 @@ canonifyurls = true
 
 [author]
   name = "Qiushi Yan"
-  bio = "Man is a credulous animal, and must believe something; in the absence of good grounds for belief, he will be satisfied with bad ones. "
+  bio = "Majoring in data journalism in Communication University of China"
   job = "Student (Communication University of China)"
   location = "Beijing, China"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog

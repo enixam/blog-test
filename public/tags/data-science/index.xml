@@ -6,10 +6,23 @@
     <description>Recent content in data science on Qiushi&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Enterprise Data Analysis and Visualization: An Interview Study</title>
+      <link>/2019/11/enterprise-data-analysis-and-visualization-an-interview-study/</link>
+      <pubDate>Sat, 16 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/enterprise-data-analysis-and-visualization-an-interview-study/</guid>
+      <description>
+
+
+&lt;p&gt;Readings notes for &lt;strong&gt;“Enterprise Data Analysis and Visualization: An Interview Study”&lt;/strong&gt;
+</description>
+    </item>
     
     <item>
       <title>50 Years of Data Science</title>
@@ -20,7 +33,7 @@
       <description>
 
 
-&lt;p&gt;Readings notes for David Dahono’s “50 Years of Data Science”&lt;/p&gt;
+&lt;p&gt;Readings notes for David Dahono’s &lt;strong&gt;“50 Years of Data Science”&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     

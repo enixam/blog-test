@@ -11,18 +11,17 @@ categories:
 tags:
   - data science
 keywords:
-  - tech
+  - data science
+  - yanqiushi
+  - 50 Years of Data Science
 ---
 
-Readings notes for David Dahono's "50 Years of Data Science"
+Readings notes for David Dahono's **"50 Years of Data Science"**
 
 <!--more-->
 
 
-# 50 Years of Data Science     
-
-
-More than 50 years ago, John Tukey in his renowned "The Future of Dat Analysis" envisioned a would-be field, where the subject of interest is to learn data. Other pioneers, like  John Chambers, Jeff Wu, Bill Cleveland, and Leo Breiman independently once again exhorted academic statistics to embrace this so-called "data sicence / analysis" trend, to soar above theoretical statisticals which was characterized by theorems, proofs, etc. In this article, David Dohono presents a vision of data science based on the activities of people who are “learning from data,” and he describes an academic field dedicated to improving that activity in an evidence-based manner.   
+More than 50 years ago, John Tukey in his renowned "The Future of Dat Analysis" envisioned a would-be field, where the subject of interest is to learn from data. Other pioneers, like  John Chambers, Jeff Wu, Bill Cleveland, and Leo Breiman independently once again exhorted academic statistics to embrace this so-called "data sicence / analysis" trend, to soar above theoretical statisticals which was characterized by theorems, proofs, etc. In this article, David Dohono presents a vision of data science based on the activities of people who are “learning from data,” and he describes an academic field dedicated to improving that activity in an evidence-based manner.   
 
 ## Data Science vs. Statistics
 
