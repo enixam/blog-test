@@ -34,13 +34,14 @@ knitr::include_graphics("/img/archetypes.png")
 **Hackers** are faced with the most diverse and complex tasks. They are most literate in terms of programming and thus rarely ask IT staffs fro help. More oftern than not, hackers master more than three languages, R / Matlab for analysis, Python, Perl as an scripting language,  and SQL for queries.^[I guess for now Python has gained ground also as a data analysis language, and Matlab is less popular among analysts doing "practical" analysis, but more frquently used in labs of nature science.] 
 
 
-
-
 Also note that with their ability to collect, manipulate data, some hackers could be in charge of managing the data warehouse of the company, and dealing with large datasets. In constrast, they perform less statistical models, and spend more time in early-stage analytic activities prior to modeling, if any.  
 
 **Scripters** take care of advanced modeling and use a software package such as R or Matlab extensively. They are less proficient when parsing log files or scraping data off the web, and the data susceptible for modeling are often prepared by IT staff.   
 
 **Application user** prefer operations done in a spreadsheet( Mostly in Excel ), or other analysis application (e.g., SAS / JMP, SPSS, etc.). Data are also pulled out from several relationald databases prior to their work. They typically worked on smaller datasets than other gorups, advanced application users may wrote scripts using an embedded language such as Visual Basic.^[To my mind, application users dipicted here seem to be titled "data analysts" for historical reasons, and there is little case for keeping such a position when there are already hackers and scripters. Perhaps they were traditional bussiness people in charge of analysis or accountants,  so they are most comforatble with Microsoft Excel or SPSS. As the "big data" meme started to present itself, all of a sudden their enterprise felr it imperative to set up a "data scientist / analyst" position to keep up with this new trend. Yet I doubt if this archetype could still survive when graduates from data.]
+
+
+
 
 
 

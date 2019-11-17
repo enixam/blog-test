@@ -46,6 +46,9 @@ Also note that with their ability to collect, manipulate data, some hackers coul
 
 
 
+
+
+
 ### Analysts within organization  
 
 Analysts interact closely with IT staff to complete aspects of theire job. For IT staff, his relationship includes data ingesting and acquiring, operationalizing recurring workflows, and serve as a source of documentation when analysts, say, con't figure out how to wirte a complex SQL statement.  
